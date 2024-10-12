@@ -8,4 +8,4 @@ Este repositorio contiene el trabajo práctico de Proyecto JPA ENVERS
 Para visualizar el trabajo práctico:
 
 1. **Clonar el Repositorio**:
-   https://github.com/Martinchox/TpEnvers
+   https://github.com/Martinchox/Tp-Envers
